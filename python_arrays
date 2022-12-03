@@ -1,0 +1,27 @@
+flowers = ["rose", "jasmine", "tulips"]
+
+print(flowers)
+x =flowers[0]
+print(x)
+flowers = ["Rose","Jasmine","Tulips"] 
+
+flowers[0] = "Hibiscus"
+
+print(flowers)
+cars = ["Ford", "Volvo", "BMW"]
+
+cars[0] = "Toyota"
+
+print(cars)
+cars = ["Ford", "Volvo", "BMW"]
+
+for x in cars:
+  print(x)
+flowers =["rose","jasmine","tulips"]
+
+for x in flowers:
+    print(x)
+    
+
+
+

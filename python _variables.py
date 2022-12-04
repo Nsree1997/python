@@ -22,4 +22,3 @@ print(x)
  #double quote is equal to single quote
 x ='navya'
 print(x)
-'

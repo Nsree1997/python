@@ -1,0 +1,49 @@
+
+
+x = str("Hello World")
+
+#display x:
+print(x)
+
+#display the data type of x:
+print(type(x)) 
+
+x = int("20")
+
+#display x:
+print(x)
+
+#display the data type of x:
+print(type(x))
+
+x = float(20.3)
+
+#display x:
+print(x)
+
+#display the data type of x:
+print(type(x))
+
+x = complex(1j)
+
+#display of x:
+print(x)
+
+#display the data type of x:
+print(type(x))
+
+x =list(("sol","lol","move"))
+
+#display of x:
+print(x)
+
+#display the data type of x:
+print(type(x))
+
+x = tuple(("lol","kol","dol"))
+
+#display of x:
+print(x)
+
+#display the data type of x:
+print(type(x))
